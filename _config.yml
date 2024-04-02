@@ -8,24 +8,24 @@ highlighter: rouge
 
 markdown: kramdown
 
-repository: drummondlab/drummondlab.github.io
+repository: sepalmer/sepalmergroup.github.io
 
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Drummond Lab
-tagline: Molecular basis of cellular sensing and responses
+title : SEPalmer Group
+tagline: Neural computation and information
 institution:
   url: http://www.uchicago.edu
   name: The University of Chicago
 department:
-  url: http://bmb.uchospitals.edu
-  name: Biochemistry & Molecular Biology
+  url: http://oba.uchicago.edu
+  name: Dept. of Organismal Biology & Anatomy
 author :
-  name : D. Allan Drummond
-  email : dadrummond@uchicago.edu
-  github : dad
-  twitter : dallandrummond
+  name : S. E. Palmer
+  email : sepalmer@uchicago.edu
+  github : sepalmer
+  twitter : sepalmerneuro
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
